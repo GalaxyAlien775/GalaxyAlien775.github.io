@@ -14,7 +14,7 @@
         }
         ul {
             color: rgb(139, 7, 176);
-            font-family: monospace;
+            font-family: sans-serif;
         }
         ol {
             color: rgb(255, 0, 255);
