@@ -7,6 +7,8 @@
     <style>
         body {
             background-color: rgb(224, 243, 255);
+            border: 10px dotted rgb(28, 168, 0);
+            padding: 23px;
         }
         p {
             color: rgb(53, 14, 245);
@@ -24,7 +26,7 @@
         }
         .Title {
             font-family: "Garamond", "Palatino", serif;
-            font-size: 26px;
+            font-size: 50px;
         }
     </style>
 
@@ -73,6 +75,6 @@
 Hello there! <br>
 Are you hungry? <br>
 Don't fly away!</p>
-
+    <a href="Birds-pics.html"></a>
     </body>
 </html>
