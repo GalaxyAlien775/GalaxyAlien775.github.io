@@ -22,11 +22,14 @@
         h2 {
             font-family: serif;
         }
+        .Title {
+            font-family: "Garamond", "Palatino", serif;
+        }
     </style>
 
 
 
-    <h1>All about birds!</h1><br>
+    <h1 class="Title">All about birds!</h1><br>
     Contents:
     <ul>
         <li><a href="#YBirds">Why birds make great pets</a></li>
