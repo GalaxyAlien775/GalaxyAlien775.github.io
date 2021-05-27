@@ -75,6 +75,6 @@
 Hello there! <br>
 Are you hungry? <br>
 Don't fly away!</p>
-    <a href="Birds-pics.html">Click on this super cute bird pictures!</a>
+    <a href="Birds-pics.html">Click on this for super cute bird pictures!</a>
     </body>
 </html>
