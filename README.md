@@ -24,6 +24,7 @@
         }
         .Title {
             font-family: "Garamond", "Palatino", serif;
+            font-size: 26px;
         }
     </style>
 
